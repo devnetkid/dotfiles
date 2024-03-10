@@ -9,3 +9,15 @@ set expandtab
 set mouse=a
 
 set relativenumber
+
+set cursorline
+:highlight Cursorline cterm=bold ctermbg=black
+
+set hlsearch
+
+set ignorecase
+set smartcase
+
+
+set showmatch
+
