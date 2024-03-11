@@ -17,4 +17,4 @@ for file in "${files[@]}"; do
 done
 
 # Run install of homebrew
-# ./brew.sh
+./brew.sh
